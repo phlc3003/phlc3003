@@ -1,16 +1,19 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 👋
 
-<!--
-**phlc3003/phlc3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Plínio Camargo
 
-Here are some ideas to get you started:
+Sou Professor na Rede Estatual de Ensino do Estado de São Paulo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou trabalhando as aulas da [Alura](https://www.alura.com.br/)
+
+Estamos nos desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+pliniohlc@gmail.com
+
+@pliniocamargo
+
+![descrição do GIF](link GIF do Tenor)
