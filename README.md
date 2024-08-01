@@ -4,11 +4,9 @@ Meu nome é Plínio Camargo
 
 Sou Professor na Rede Estatual de Ensino do Estado de São Paulo
 
-Estou trabalhando as aulas da [Alura](https://www.alura.com.br/)
+Estou trabalhando as aulas da [Alura](https://www.alura.com.br/) na disiciplina de Tecnologia.
 
-Estamos nos desenvolvendo na linguagem JavaScript
-
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
  
  
  
